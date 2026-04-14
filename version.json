@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.21",
-    "release_date": "14 April 2026",
-    "update_notes": "Penambahan fitur catatan pengeluaran, modifikasi daftar menu, pembaruan visual manajemen akun dan optimasi kecepatan aplikasi.",
-    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.21.zip"
+    "latest_version": "1.0.22",
+    "release_date": "15 April 2026",
+    "update_notes": "Penambahan fitur grafik barang terlaris dan optimasi kecepatan aplikasi.",
+    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.22.zip"
 }
