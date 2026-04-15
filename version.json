@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.23",
-    "release_date": "15 April 2026",
-    "update_notes": "Penambahan input transaksi dan pengeluaran masa lampau, filter statistik perbulan pada halaman dashboard dan optimasi kecepatan aplikasi.",
-    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.23.zip"
+    "latest_version": "1.0.24",
+    "release_date": "16 April 2026",
+    "update_notes": "Penambahan input transaksi dan pengeluaran masa lampau, filter statistik perbulan pada halaman dashboard, modifikasi halaman login dan optimasi kecepatan aplikasi.",
+    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.24.zip"
 }
