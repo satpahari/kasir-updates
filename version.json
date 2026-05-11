@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.25",
+    "latest_version": "1.0.26",
     "release_date": "11 Mei 2026",
     "update_notes": "Perbaikan bug grafik penjualan toko, perbaikan nomor halaman/pagination pada menu laporan penjualan, modifikasi dropdown jenis pembayaran pada menu transaksi lampau.",
-    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.25.zip"
+    "download_url": "https://raw.githubusercontent.com/satpahari/kasir-updates/main/update_v1.0.26.zip"
 }
